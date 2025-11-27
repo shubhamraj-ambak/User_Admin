@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# package file
+package.json
+
+# Environment files
+.env
